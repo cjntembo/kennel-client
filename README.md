@@ -4,7 +4,14 @@
 
 ## Features
 
+## Demo
+
+![image](https://user-images.githubusercontent.com/73195076/153974906-826125a5-464f-4c1a-ac3f-45a656131723.png)
+
+
 ## ERD
+
+![Data Diagram](https://dbdiagram.io/d/609ff8bcb29a09603d14ffb2)
 
 ## Code Example
 
